@@ -1,0 +1,63 @@
+// JSON Document
+{
+    "gender": "Men",
+    "year": 2018,
+    "semester": "Spring",
+    "apartments": [
+        {
+            "apartmentNumber": "301",
+            "names": [
+                "Samuel Bagley",
+                "Mason Cook",
+                "Jake Crofts",
+                "Ejoke Ekpagha",
+                "Jake Hawkins",
+                "Hunter Ralphs"
+            ]
+        },
+        {
+            "apartmentNumber": "302",
+            "names": [
+                "Seth Bolander",
+                "Peter Butcher",
+                "Chandler Call",
+                "Jacob Christensen",
+                "Max Ogden",
+                "Jonathan Pearce"
+            ]
+        },
+        {
+            "apartmentNumber": "303",
+            "names": [
+                "Nate Barlow",
+                "Nicholas David Barlow",
+                "Ryan Kwiatkowski",
+                "Edgar Montoya",
+                "Joshua Rodriguez",
+                "Chris Slaugh"
+            ]
+        },
+        {
+            "apartmentNumber": "304",
+            "names": [
+                "Skyler hecker",
+                "Taylor hecker",
+                "Jake Lucido",
+                "Connor Nielson",
+                "Morgan Rial",
+                "Jacob Turner"
+            ]
+        },
+        {
+            "apartmentNumber": "305",
+            "names": [
+                "Landon Carroll",
+                "Dalton Homer",
+                "Britt LeFevre",
+                "Joe Parkman",
+                "RJ Penate",
+                "Brad Sparhawk"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+// JSON Document{
+{
+    "gender": "Women",
+    "year": 2018,
+    "semester": "Spring",
+    "apartments": [
+        {
+            "apartmentNumber": "301",
+            "names": [
+                "Breighlynn Barnes",
+                "Amber Blanchard",
+                "Emily Chase",
+                "Kaylie Daugherty",
+                "Rylie Douglass",
+                "Alyssa Maddox"
+            ]
+        },
+        {
+            "apartmentNumber": "302",
+            "names": [
+                "Mayeline Burdie",
+                "Magan Burt",
+                "Cassi Johnson",
+                "Morgan Mikesell",
+                "Candice Silvan-Duran",
+                "Kaitlyn Summers"
+            ]
+        },
+        {
+            "apartmentNumber": "303",
+            "names": [
+                "Sarah Dunkley",
+                "Sienna Eller",
+                "Olivia Ellis",
+                "Alicia Hamblin",
+                "Kiana Resendez",
+                "Tani Whitaker"
+            ]
+        },
+        {
+            "apartmentNumber": "304",
+            "names": [
+                "Jenneva James",
+                "Julia Lyn James2",
+                "Megan Macneil",
+                "Marissa Shin",
+                "Kelly Thompson",
+                "Yi Lin Wu"
+            ]
+        },
+        {
+            "apartmentNumber": "305",
+            "names": [
+                "Rebecca Clark",
+                "Sydney Holt",
+                "Jenifer Paye Llerena",
+                "Maddy Quast",
+                "Estefania Sosa Oberlin",
+                "McKenna Stoker"
+            ]
+        }
+    ]
+}
