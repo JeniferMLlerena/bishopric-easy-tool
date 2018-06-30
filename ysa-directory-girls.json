@@ -1,5 +1,5 @@
 // JSON Document{
-{
+
     "gender": "Women",
     "year": 2018,
     "semester": "Spring",
@@ -60,4 +60,3 @@
             ]
         }
     ]
-}
